@@ -21,7 +21,7 @@ onCreat()中：
 
 ```
 
-监听方法回掉：
+监听方法回调：
 ```
 @Override
  public void getCity(final String name) {
