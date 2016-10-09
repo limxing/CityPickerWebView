@@ -30,7 +30,7 @@ onCreat()中：
 ```
 
 处理返回键：
-   ```
+```
  @Override
     public void onBackPressed() {
         if (cityPicker.isShow()){
@@ -39,6 +39,6 @@ onCreat()中：
         }
         super.onBackPressed();
     }
-   ```
+```
 
  参考文献：<a href="https://github.com/dcloudio/mui/">mui</a>
