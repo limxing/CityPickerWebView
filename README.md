@@ -1,5 +1,5 @@
 # CityPickerWebView
-省市县三级联动，WebView实现
+省市县三级联动，JS实现
 
 <img src="./city.gif"/>
 
